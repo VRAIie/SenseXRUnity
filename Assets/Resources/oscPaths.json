@@ -1,0 +1,22 @@
+{
+    "paths": [
+        "/EmotiBit/0/PPG:RED",
+        "/EmotiBit/0/PPG:IR",
+        "/EmotiBit/0/PPG:GRN",
+        "/EmotiBit/0/EDA",
+        "/EmotiBit/0/THERM",
+        "/EmotiBit/0/TEMP",
+        "/EmotiBit/0/ACC:X",
+        "/EmotiBit/0/ACC:Y",
+        "/EmotiBit/0/ACC:Z",
+        "/EmotiBit/0/HUMIDITY",
+        "/EmotiBit/0/GYRO:X",
+        "/EmotiBit/0/GYRO:Y",
+        "/EmotiBit/0/GYRO:Z",
+        "/EmotiBit/0/MAG:X",
+        "/EmotiBit/0/MAG:Y",
+        "/EmotiBit/0/MAG:Z"
+    ],
+    "ip": "127.0.0.1",
+    "port": 12345
+}
